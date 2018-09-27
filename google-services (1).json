@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184161506853",
+    "firebase_url": "https://daniloflix-c774b.firebaseio.com",
+    "project_id": "daniloflix-c774b",
+    "storage_bucket": "daniloflix-c774b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184161506853:android:20056c35c9ea74e6",
+        "android_client_info": {
+          "package_name": "com.example.thais.daniloflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184161506853-23p0p75nisavedcsmo2dovv92qf0t84g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thais.daniloflix",
+            "certificate_hash": "639d26451baff5031b9fa393e54b66c68d2456b9"
+          }
+        },
+        {
+          "client_id": "184161506853-504v8q6fdp77eu3s9svjt7psm9t2l80a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrbuvIOmBuw1YxiMI50wM39fgOzqgUls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184161506853-504v8q6fdp77eu3s9svjt7psm9t2l80a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
